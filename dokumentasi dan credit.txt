@@ -11,3 +11,5 @@ Ajax Full Featured Calendar
 Paulo Alexandre
 
 Also fontawesome, jquery and bootstrap
+
+username: admin, password: admin, aplikasi ini dibuat menggunakan php native versi 7...
